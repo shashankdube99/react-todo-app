@@ -1,4 +1,4 @@
-<img width="361" height="560" alt="image" src="https://github.com/user-attachments/assets/ea321036-4bee-413e-9942-3a671ee6f5fa" /># React-Counter-App
+# React-Counter-App
 Exploring Components, State, Hooks, Props
 
 ## 📚 What I Learned
